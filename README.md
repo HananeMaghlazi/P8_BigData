@@ -34,13 +34,19 @@ Un notebook sur le cloud contenant les scripts en Pyspark exécutables (le prepr
 - Configuration d’une solution BigData dans le cloud:
 
  Mise en place d’un bucket S3
+ 
  Gestion des droits sur S3 avec le service IAM
+ 
  Configuration du service EMR
 
 - Traitement des images : 
 
  Chargement du bucket
+ 
  Prétraitement des images
+ 
  Utilisation des pandas UDF
+ 
  Transfer Learning à partir du modèle  MobileNetV2 as Feature Extractor Preprocessor
+ 
  Enregistrement du résultat sur S3
