@@ -32,11 +32,13 @@ Un notebook sur le cloud contenant les scripts en Pyspark exécutables (le prepr
 # Ma démarche:
 
 - Configuration d’une solution BigData dans le cloud:
+
  Mise en place d’un bucket S3
  Gestion des droits sur S3 avec le service IAM
  Configuration du service EMR
 
 - Traitement des images : 
+
  Chargement du bucket
  Prétraitement des images
  Utilisation des pandas UDF
