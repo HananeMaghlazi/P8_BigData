@@ -1,4 +1,5 @@
-# P8_BigData
+# P8_BigData : Déployez un modèle dans le cloud
+
 
 ## Ennoncé : 
 
@@ -26,9 +27,18 @@ Votre retour critique de cette solution sera également précieuse, avant de dé
 La mise en œuvre d’une architecture Big Data de type EMR engendrera des coûts. Vous veillerez donc à ne maintenir l’instance EMR opérationnelle que pour les tests et les démos.
 
 ## Livrables:
-Un notebook en local pour un premier test
-Un notebook sur le cloud contenant les scripts en Pyspark exécutables (le preprocessing et une étape de réduction de dimension de type PCA).
+- Un notebook en local pour un premier test
+- Un notebook sur le cloud contenant les scripts en Pyspark exécutables (le preprocessing et une étape de réduction de dimension de type PCA).
+- Un support de présentation  :
 
+ les différentes briques d'architecture choisies sur le cloud 
+ 
+ leur rôle dans l’architecture Big Data 
+ 
+ la démarche de mise en oeuvre de l’environnement Big Data (EMR ou Databricks)
+ 
+ les étapes de la chaîne de traitement PySpark
+ 
 # Ma démarche:
 
 - Configuration d’une solution BigData dans le cloud:
