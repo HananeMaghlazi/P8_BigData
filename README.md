@@ -1,5 +1,5 @@
 # P8_BigData : Déployez un modèle dans le cloud
-
+## Dans le cadre de la formation Data Scientist : Parcours en partenariat avec CentraleSupélec
 
 ## Ennoncé : 
 
